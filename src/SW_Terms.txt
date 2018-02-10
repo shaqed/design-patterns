@@ -32,13 +32,18 @@ Pain in software development
 							- Small releases
 						- Courage
 							- Planning game
-								- Driven
-									- Story Driven
-									- Date Driven
-								- Plan		
-									- IPT - 				Ideal Programming Time
-									- Load Factor - 		How much to multiply the IPT to get a real estimate
-									- Velocity - 			How much IPT you have per iteration, the more people - the less Velocity. 
+							    - Moves
+							        - Write a story
+							        - Estimate a cost of that story
+							            - IPT (Ideal programming time)
+							            - Load Factor (How much to multiply that IPT to get a real estimate)
+							            - Velocity (Number of ideal weeks per iteration)
+							        - Make Commitment
+							            - Story driven
+							            - Date driven
+							    - Value and Risk
+							        - Business Value first
+							        - Worst Thing First
 								- Control Variables 		(pick 3, the last one is derived by the 3)
 									- Cost
 									- Time
