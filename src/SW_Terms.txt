@@ -53,6 +53,10 @@ Pain in software development
 							- Red
 							- Green
 							- Refactor
+						- Techniques
+						    - Fake it til you make it
+						    - Triangulate
+						    - Obvious Implementation
 Testing
 	- V&V
 		- Verification
