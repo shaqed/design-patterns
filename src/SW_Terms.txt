@@ -35,12 +35,12 @@ Pain in software development
 							    - Moves
 							        - Write a story
 							        - Estimate a cost of that story
-							            - IPT (Ideal programming time)
-							            - Load Factor (How much to multiply that IPT to get a real estimate)
-							            - Velocity (Number of ideal weeks per iteration)
+							        	- IPT (Ideal programming time)
+							        	- Load Factor (How much to multiply that IPT to get a real estimate)
+							        	- Velocity (Number of ideal weeks per iteration)
 							        - Make Commitment
-							            - Story driven
-							            - Date driven
+							        	- Story driven
+							        	- Date driven
 							    - Value and Risk
 							        - Business Value first
 							        - Worst Thing First
@@ -59,9 +59,9 @@ Pain in software development
 							- Green
 							- Refactor
 						- Techniques
-						    - Fake it til you make it
-						    - Triangulate
-						    - Obvious Implementation
+							- Fake it til you make it
+							- Triangulate
+							- Obvious Implementation
 Testing
 	- V&V
 		- Verification
