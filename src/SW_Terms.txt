@@ -1,0 +1,96 @@
+Software development process
+	- Specification
+	- development 											
+	- Validation 											
+	- Evolution 											
+
+Pain in software development
+	- Changeability
+	- Conformity
+	- Invisibility
+	- Complexity
+
+	Development Methodoligies
+		- Waterfall
+		- Evolutionary Methods
+			- Incremental Method
+			- Iterative Method
+				- Spiral
+				- Agile
+					- Extreme Prorgamming [XP] - Rules
+						- Simplicity
+							- Metaphor
+							- Simple Design
+							- Refactoring
+						- Communication
+							- On-site Customer
+							- Pair programming
+							- Coding standards
+						- Feedback
+							- Testing
+							- Keep Integrating
+							- Small releases
+						- Courage
+							- Planning game
+								- Driven
+									- Story Driven
+									- Date Driven
+								- Plan		
+									- IPT - 				Ideal Programming Time
+									- Load Factor - 		How much to multiply the IPT to get a real estimate
+									- Velocity - 			How much IPT you have per iteration, the more people - the less Velocity. 
+								- Control Variables 		(pick 3, the last one is derived by the 3)
+									- Cost
+									- Time
+									- Quality
+									- Scope 
+							- Collective code ownership
+							- Sustainable pace 
+							- Open workspace
+							- Daily standup meeting
+					- Test Driven Development [TDD]
+						- Cycle of development
+							- Red
+							- Green
+							- Refactor
+Testing
+	- V&V
+		- Verification
+			- Static
+				- Software Inspection
+				- Static analysis
+				- Formal Verification
+			- Dynamic
+				- Running the code (Unit testing)
+		- Validation
+			- Static [NO STATIC]
+			- Dynamic
+				- Component Testing
+				- Integration Testing
+					- Top down
+					- Bottom Up
+					- Big Bang
+				- System Testing
+					- Usability Testing
+					- Security Testing
+					- Volume Testing
+					- Stress Testing
+					- Performance Testing
+					- Recovery Testing
+				- Acceptance Testing
+					- Hidden Assumptions
+					- Estimate Acceptance-Test Effort
+						- Preparation
+						- Running Tests
+						- Special Considerations
+					- Obtaining Data for Tests
+						- Happy
+						- Sad
+						- Bad
+		- How to decide what to test?
+			- Requirement Based 
+			- Partition Testing
+			- Structural Testing 
+				- Condition Based
+				- Statement Coverage
+				- Path Coverage 

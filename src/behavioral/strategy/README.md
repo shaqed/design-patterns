@@ -1,0 +1,3 @@
+## Strategy
+
+![Diagram](Mainer.png)
