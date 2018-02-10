@@ -10,14 +10,14 @@ Pain in software development
 	- Invisibility
 	- Complexity
 
-	Development Methodoligies
+	Development Methodologies
 		- Waterfall
 		- Evolutionary Methods
 			- Incremental Method
 			- Iterative Method
 				- Spiral
 				- Agile
-					- Extreme Prorgamming [XP] - Rules
+					- Extreme Programming [XP] - Rules
 						- Simplicity
 							- Metaphor
 							- Simple Design

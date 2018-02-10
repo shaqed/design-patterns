@@ -14,7 +14,7 @@ public class Mainer {
 
 
         System.out.println("Trying to retrieve information the second time");
-        String secondInfo = serverSubject.getInfo(); // Look that now we might not ask the
+        String secondInfo = serverSubject.getInfo(); // Notice that now we might not ask the
                                                     // real server and the request will be handled faster!
         System.out.println("Second info is: " + secondInfo);
 
